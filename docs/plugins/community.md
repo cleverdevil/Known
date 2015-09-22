@@ -92,6 +92,8 @@ listings here do not imply endorsement by the Known project team in any way.
 * [Markdown](https://github.com/mapkyca/IdnoMarkdown) - Adds Markdown support for status and blog posts, 
     by [Marcus Povey](https://www.marcus-povey.co.uk)
 
+* [OpenGraph Link Rendering](https://github.com/hank/IdnoOpenGraphConsumer) - Automatically convert raw hyperlinks in content to OpenGraph "cards", similar to Twitter Summary Cards.
+    by [Erik Gregg](https://www.jointsecurityarea.org)
 
 ## Submissions
 
